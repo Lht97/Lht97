@@ -22,7 +22,7 @@ I'm currently researching on Derivative-free Optimization (DFO), especially on d
 
 ## My current projects
 
-I am currently working on [COBYQA](https://github.com/blockwise-direct-search), a derivative-free solver of direct search methods for general nonlinear optimization.
+I am currently working on [BDS](https://github.com/blockwise-direct-search), a derivative-free solver of direct search methods for general nonlinear optimization.
 
 ## Motto
 What makes me hurt, the pain of hard work, or the pain of regret?
